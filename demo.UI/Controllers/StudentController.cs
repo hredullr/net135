@@ -8,5 +8,10 @@ namespace demo.UI.Controllers
         {
             return View();
         }
+
+        public IActionResult Eidt(int id)
+        {
+            return View();
+        }
     }
 }
