@@ -2,7 +2,7 @@
 
 namespace demo.UI.Controllers
 {
-    public class StudentController1 : Controller
+    public class StudentController : Controller
     {
         public IActionResult Index()
         {
